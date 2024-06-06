@@ -1,0 +1,568 @@
+﻿City,Parks Area,Parks per 1000 People
+"Fontana,California",9.99,1.54
+"Stockton,California",23.57,5.4
+"Los Angeles,California",23.1,1.88
+"San Francisco,California",19.88,0.49
+"San Jose,California",13.89,1.41
+"Apple Valley,California",23.65,20.46
+"Carson,California",5.9,0.55
+"Thousand Oaks,California",85.54,19.86
+"Westlake Village,California",59.19,80.75
+"Helendale,California",0,0
+"San Fernando,California",10.6,1.31
+"Santa Clarita,California",20.68,4.71
+"Eureka,California",3.57,0.8
+"Lafayette,California",0.32,0.11
+"Adelanto,California",1.76,0.41
+"Camarillo,California",26.75,5.37
+"Santa Clara,California",10.03,1.03
+"Riverside,California",6.3,1.7
+"Agoura Hills,California",16.88,5.27
+"Oakland,California",10.83,0.73
+"Alameda,California",6.02,0.57
+"Albany,California",15.22,1.54
+"Agua Dulce,California",127.43,566.31
+"Alhambra,California",7.47,0.58
+"Martinez,California",118.26,48.43
+"Salinas,California",1.92,0.36
+"Aliso Viejo,California",2.1,0.3
+"Huntington Park,California",2.62,0.13
+"Alta Loma,California",0,0
+"Santa Barbara,California",9.51,1.79
+"Hesperia,California",4.78,1.56
+"Santa Cruz,California",9.69,1.6
+"Sutter Creek,California",2.48,1.99
+"Pleasanton,California",16.15,4.47
+"American Canyon,California",67.4,11.21
+"Fremont,California",0.99,0.12
+"Anaheim,California",25.58,2.44
+"Sebastopol,California",40.05,15.12
+"Anderson,California",0,0
+"Boonville,California",0,0
+"Fairfield,California",8.65,1.58
+"Inglewood,California",1.74,0.17
+"Venice,California",2.62,0.33
+"Morgan Hill,California",20.53,4.30
+"Antelope,California",4.54,1.24
+"Lancaster,California",12.76,2.52
+"Palmdale,California",17.52,3.07
+"Antioch,California",6.47,1.65
+"San Juan Bautista,California",8.17,5.09
+"Montebello,California",7.14,0.83
+"Aptos,California",72.61,23.15
+"San Mateo,California",3.34,0.51
+"Arcadia,California",21.65,3.70
+"Arcata,California",54.58,14.79
+"San Anselmo,California",9.47,2.72
+"El Segundo,California",27.37,4.06
+"Jackson,California",0.03,0.02
+"Arleta,California",0.00,0.00
+"Irvine,California",90.08,10.78
+"Arroyo Grande,California",2.02,0.95
+"El Monte,California",1.77,0.29
+"San Lorenzo,California",15.14,1.78
+"San Diego,California",7.16,0.41
+"San Bernardino,California",5.25,2.05
+"Lakewood,California",5.70,1.24
+"Arvin,California",27.22,4.08
+"Sacramento,California",43.83,6.97
+"East Palo Alto,California",6.61,0.67
+"Modesto,California",3.49,1.27
+"Atascadero,California",0.00,0.00
+"Atwater,California",13.65,4.48
+"Avalon,California",3.64,1.48
+"Avenal,California",5.08,0.86
+"Altadena,California",0.70,0.13
+"Azusa,California",13.72,2.02
+"Baker,California",62.75,794.32
+"Bakersfield,California",0.61,0.33
+"Baldwin Park,California",11.81,1.09
+"Banning,California",13.53,3.96
+"Barstow,California",0.56,0.22
+"La Puente,California",6.37,1.92
+"Grass Valley,California",8.65,2.73
+"Beaumont,California",16.70,5.04
+"Bell Gardens,California",16.84,1.70
+"Bell,California",3.05,0.20
+"Fair Oaks,California",2.45,1.03
+"Bellflower,California",22.58,1.62
+"Benicia,California",13.30,3.15
+"Berkeley,California",7.76,0.52
+"Beverly Hills,California",8.66,4.38
+"Big Bear City,California",22.37,10.33
+"Big Pine,California",175.7,219.08
+"Biggs,California",5.52,2.24
+"Lake Balboa,California",6.66,1.03
+"Bishop,California",39.88,16.2
+"Pasadena,California",15.72,1.44
+"Bloomington,California",0.00,0.00
+"Garden Grove,California",11.77,1.42
+"La Verne,California",15.69,3.04
+"Chula Vista,California",13.14,1.27
+"Borrego Springs,California",37.13,174.30
+"Brawley,California",19.00,3.20
+"Brea,California",21.53,4.76
+"Angels Camp,California",2.73,2.95
+"Vacaville,California",3.75,0.95
+"Ventura,California",110.15,35.80
+"Buena Park,California",6.13,0.99
+"Chino,California",12.23,3.48
+"Yorba Linda,California",26.35,8.91
+"Fresno,California",15.04,4.45
+"Burbank,California",1.46,0.11
+"Burlingame,California",0.59,0.10
+"Burney,California",3.3,2.16
+"Ridgecrest,California",64.57,27.26
+"San Juan Capistrano,California",6.87,2.56
+"Lompoc,California",19.3,2.51
+"Calabasas,California",0.00,0.00
+"San Andreas,California",2.75,1.92
+"Calexico,California",15.07,2.81
+"California City,California",62.05,61.25
+"Ripon,California",7.83,1.76
+"San Ramon,California",0.00,0.00
+"Whittier,California",10.79,0.93
+"Perris,California",25.88,6.58
+"Simi Valley,California",0.00,0.00
+"Calipatria,California",10.13,4.93
+"Calistoga,California",11.62,4.14
+"Campbell,California",20.53,5.17
+"Pine Valley,California",74.27,149.73
+"Moraga,California",29.1,15.9
+"Canoga Park,California",0.77,0.08
+"Canyon Country,California",60.05,15.44
+"Moreno Valley,California",41.36,9.36
+"Mission Viejo,California",14.76,4.47
+"San Bruno,California",,
+"Belmont,California",28.93,5.30
+"Carlsbad,California",,
+"Carmel,California",,
+"Carpinteria,California",24.31,4.81
+"Caruthers,California",0.00,0.00
+"Petaluma,California",,
+"Orangevale,California",16.86,6.97
+"Castro Valley,California",5.20,0.77
+"Cathedral City,California",0.00,0.00
+"Watsonville,California",,
+"Compton,California",7.81,0.67
+"Corona,California",7.41,1.32
+"Nipomo,California",,
+"El Centro,California",4.23,0.77
+"Shasta Lake,California",3.12,1.56
+"Ceres,California",,
+"Santa Ana,California",10.20,0.69
+"Cerritos,California",16.15,2.60
+"Delano,California",4.54,0.91
+"Ontario,California",6.32,0.96
+"Oxnard,California",1.75,0.25
+"El Cajon,California",5.36,0.55
+"Temecula,California",4.53,1.34
+"Placerville,California",,
+"Van Nuys,California",1.38,0.09
+"Covina,California",15.04,2.47
+"Chatsworth,California",1.28,0.18
+"Chester,California",89.22,119.12
+"Chico,California",28.62,6.76
+"Chino Hills,California",68.45,36.94
+"Chowchilla,California",,
+"Gilroy,California",0.92,0.15
+"Redlands,California",4.94,1.95
+"Claremont,California",13.71,2.50
+"La Crescenta,California",0.00,0.00
+"Escondido,California",,
+"Concord,California",19.93,4.89
+"Lakeport,California",,
+"Reseda,California",2.13,0.21
+"Cloverdale,California",12.33,3.61
+"Clovis,California",7.28,1.81
+"Thermal,California",0.00,0.00
+"Coalinga,California",,
+"Huntington Beach,California",23.10,3.58
+"Cambria,California",35.49,65.85
+"Victorville,California",0.00,0.00
+"Coleville,California",10.70,445.85
+"Colfax,California",,
+"Pleasant Hill,California",7.79,1.98
+"Hemet,California",3.94,0.94
+"Colton,California",11.17,2.70
+"Colusa,California",,
+"Waterford,California",,
+"Corcoran,California",2.69,0.93
+"Rancho Cordova,California",12.10,1.94
+"Marysville,California",,
+"Corning,California",,
+"Newport Beach,California",,
+"Coronado,California",10.29,3.93
+"Costa Mesa,California",3.25,0.67
+"Elk Grove,California",7.48,1.88
+"North Highlands,California",0.41,0.06
+"Rohnert Park,California",,
+"Culver City,California",3.01,0.30
+"Cupertino,California",9.55,1.74
+"Cypress,California",9.92,1.58
+"Davis,California",22.47,4.94
+"Dana Point,California",,
+"Long Beach,California",12.94,0.59
+"Richmond,California",19.16,1.86
+"Crescent City,California",,
+"Loomis,California",1.14,0.77
+"Delhi,California",4.52,1.44
+"Tracy,California",15.38,3.55
+"Clarksburg,California",,
+"Denair,California",0.00,0.00
+"Edwards,California",0.00,0.00
+"Desert Hot Springs,California",10.47,1.96
+"Diamond Bar,California",1.62,0.54
+"Pomona,California",4.36,0.66
+"Dinuba,California",13.62,3.95
+"Sylmar,California",0.08,0.01
+"Dixon,California",33.71,9.36
+"La Grange,California",160.40,739.19
+"Dos Palos,California",,
+"Goleta,California",,
+"Downey,California",0.96,0.12
+"Wilmington,California",1.40,0.13
+"Duarte,California",26.03,5.98
+"Dublin,California",,
+"Dunsmuir,California",,
+"Durham,California",4.22,3.86
+"Hayward,California",3.89,0.46
+"Trowbridge,California",0.00,0.00
+"Manteca,California",,
+"North Hollywood,California",1.51,0.13
+"West Covina,California",9.11,1.35
+"Rialto,California",,
+"Oceanside,California",,
+"South San Francisco,California",6.01,0.64
+"Woodland Hills,California",,
+"Lakeside,California",57.41,11.42
+"Merced,California",,
+"El Cerrito,California",,
+"Visalia,California",18.18,6.05
+"Placentia,California",5.84,0.91
+"Orange,California",5.81,0.87
+"Forestville,California",7.91,8.12
+"Pico Rivera,California",,
+"Lake Forest,California",1.09,0.69
+"Eastvale,California",0.00,0.00
+"Cudahy,California",,
+"Santa Rosa,California",18.18,4.74
+"Wildomar,California",0.00,0.00
+"Emeryville,California",0.44,0.08
+"Redding,California",32.65,11.91
+"Lawndale,California",2.12,0.17
+"Santa Maria,California",,
+"Escalon,California",,
+"Esparto,California",10.20,4.62
+"Etiwanda,California",0.00,0.00
+"Etna,California",5.99,8.22
+"Redwood City,California",11.83,1.31
+"Exeter,California",16.10,3.74
+"Mcarthur,California",,
+"Fallbrook,California",3.08,0.52
+"Farmersville,California",,
+"Ferndale,California",0.00,0.00
+"Fillmore,California",,
+"Firebaugh,California",,
+"Folsom,California",36.07,9.17
+"Palo Cedro,California",9.69,37.71
+"Nevada City,California",8.58,5.31
+"Foresthill,California",0.00,0.00
+"Fort Bragg,California",,
+"Fortuna,California",0.64,0.18
+"Fountain Valley,California",,
+"Fowler,California",,
+"Lebec,California",0.00,0.00
+"Oakley,California",,
+"Sunnyvale,California",17.39,2.88
+"Fullerton,California",14.76,2.47
+"San Gabriel,California",9.41,1.25
+"Galt,California",15.52,4.74
+"Gardena,California",1.28,0.18
+"Geyserville,California",0.00,0.00
+"Oakhurst,California",0.00,0.00
+"Hacienda Heights,California",,
+"Glendale,California",,
+"Glendora,California",12.99,2.21
+"Garden Valley,California",20.42,189.12
+"Gonzales,California",15.66,4.11
+"Livermore,California",74.07,16.62
+"Granada Hills,California",,
+"Grand Terrace,California",10.20,2.36
+"Granite Bay,California",0.06,0.04
+"Porterville,California",,
+"Jamul,California",,
+"Greenfield,California",5.59,1.66
+"Gridley,California",15.79,4.28
+"Vista,California",,
+"Gustine,California",,
+"Half Moon Bay,California",8.54,2.36
+"Sanger,California",,
+"Anza,California",0.00,0.00
+"Hamilton City,California",,
+"Hanford,California",5.50,1.52
+"Happy Camp,California",232.16,1005.04
+"Hawthorne,California",6.64,0.48
+"Healdsburg,California",3.07,1.15
+"Hollywood,California",5.15,0.37
+"La Mesa,California",20.88,4.50
+"Palo Alto,California",14.89,2.07
+"Hercules,California",10.67,2.41
+"Brentwood,California",10.30,2.33
+"Menifee,California",,
+"Rio Linda,California",61.09,19.49
+"Moorpark,California",10.66,2.64
+"San Marcos,California",8.28,1.66
+"Hilmar,California",,
+"Hollister,California",11.83,2.27
+"Holtville,California",,
+"Hoopa,California",0.00,0.00
+"Lincoln,California",21.35,7.84
+"Hughson,California",16.51,4.73
+"Harbor City,California",22.38,2.06
+"Acton,California",46.58,90.28
+"Imperial,California",5.02,1.06
+"Roseville,California",28.45,8.28
+"Lodi,California",,
+"Indio,California",16.74,5.94
+"South Gate,California",4.61,0.30
+"Union City,California",,
+"North Hills,California",,
+"Daly City,California",0.00,0.00
+"Vallejo,California",65.14,14.16
+"Rowland Heights,California",0.00,0.00
+"La Palma,California",,
+"Norco,California",4.00,1.53
+"Norwalk,California",14.42,2.04
+"Sun Valley,California",4.31,1.42
+"Turlock,California",7.41,1.61
+"Crockett,California",,
+"Julian,California",15.42,77.11
+"Mira Loma,California",,
+"Lake Elsinore,California",15.33,3.79
+"Kelseyville,California",3.68,1.93
+"Kerman,California",,
+"Lake Isabella,California",75.11,70.39
+"King City,California",,
+"Kingsburg,California",6.88,2.46
+"La Canada,California",,
+"La Habra,California",19.11,2.11
+"La Jolla,California",43.08,28.01
+"La Mirada,California",,
+"La Quinta,California",1.36,0.25
+"Westminster,California",8.43,0.92
+"Laguna Beach,California",79.95,27.41
+"Laguna Hills,California",2.26,0.42
+"Walnut Creek,California",16.88,2.31
+"Oroville,California",19.20,9.07
+"Susanville,California",,
+"Lathrop,California",,
+"Laton,California",4.12,4.34
+"Laytonville,California",0.00,0.00
+"Le Grand,California",0.00,0.00
+"Lee Vining,California",388.86,3411.07
+"Lemoore,California",4.94,1.42
+"Madera,California",4.00,0.86
+"Linden,California",0.00,0.00
+"Olivehurst,California",0.52,0.17
+"Lindsay,California",8.67,1.83
+"Alpine,California",,
+"Littlerock,California",,
+"Live Oak,California",15.97,4.09
+"Livingston,California",,
+"Lone Pine,California",,
+"Los Alamitos,California",17.46,3.37
+"Los Altos,California",0.00,0.00
+"Los Banos,California",,
+"Los Gatos,California",4.64,1.79
+"Rancho Cucamonga,California",0.00,0.00
+"Lower Lake,California",0.93,2.33
+"Loyalton,California",8.34,10.14
+"Lucerne Valley,California",,
+"Lynwood,California",37.42,3.42
+"Auburn,California",8.01,2.77
+"Malibu,California",,
+"Mammoth Lakes,California",,
+"Imperial Beach,California",23.11,2.84
+"Marina,California",13.46,2.82
+"Mariposa,California",124.96,514.26
+"Petrolia,California",0.00,0.00
+"Maxwell,California",0.00,0.00
+"Maywood,California",0.15,0.02
+"Mcfarland,California",11.67,2.15
+"Mckinleyville,California",0.27,0.10
+"Mendocino,California",105.37,331.37
+"Mendota,California",11.29,2.79
+"Atherton,California",19.62,11.34
+"Citrus Heights,California",15.96,2.63
+"Murrieta,California",,
+"San Pablo,California",,
+"Middletown,California",,
+"Piedmont,California",52.84,9.74
+"Millbrae,California",10.83,1.39
+"Milpitas,California",3.78,1.07
+"Oneals,California",0.00,0.00
+"Manhattan Beach,California",,
+"Orinda,California",,
+"Tulare,California",7.06,2.76
+"Alturas,California",14.84,12.47
+"Mojave,California",3.03,2.61
+"Monrovia,California",,
+"Montclair,California",3.95,0.69
+"Danville,California",,
+"Spring Valley,California",,
+"Monterey,California",,
+"Morro Bay,California",5.42,2.29
+"Mount Shasta,California",18.93,13.01
+"San Jacinto,California",9.23,1.38
+"Mountain House,California",50.29,8.35
+"Ramona,California",0.00,0.00
+"Mountain View,California",14.73,1.95
+"El Dorado,California",0.00,0.00
+"Napa,California",21.64,5.17
+"Needles,California",17.44,27.81
+"Newark,California",9.84,1.33
+"Newbury Park,California",6.23,2.37
+"Ojai,California",27.62,9.78
+"Torrance,California",5.36,1.07
+"Castroville,California",6.46,1.39
+"Tahoe City,California",66.49,275.90
+"Northridge,California",0.00,0.00
+"Coachella,California",2.34,0.70
+"Novato,California",,
+"Nuevo,California",0.00,0.00
+"Oak Hills,California",,
+"Oak Park,California",133.88,40.37
+"El Dorado Hills,California",27.48,12.03
+"Oakdale,California",12.24,2.57
+"Pacifica,California",,
+"Irwindale,California",21.54,83.16
+"Valencia,California",141.46,49.76
+"Carmichael,California",10.59,2.44
+"Orange Cove,California",3.06,1.00
+"Orcutt,California",5.47,1.96
+"Newman,California",10.97,2.38
+"Orland,California",14.22,5.98
+"Orosi,California",0.00,0.00
+"Tustin,California",8.94,1.67
+"Pacific Grove,California",,
+"Big Sur,California",0.00,0.00
+"Pacific Palisade,California",60.43,14.85
+"Palm Desert,California",54.07,11.88
+"Palm Springs,California",79.80,92.89
+"Blythe,California",25.25,9.78
+"Palos Verdes Estate,California",138.24,75.05
+"Rolling Hills Estat,California",22.80,13.78
+"Panorama City,California",6.00,0.48
+"Paradise,California",9.77,26.33
+"Paramount,California",0.00,0.00
+"Parlier,California",,
+"Paso Robles,California",6.66,2.89
+"Patterson,California",2.32,0.67
+"Pescadero,California",0.00,0.00
+"Arbuckle,California",7.18,4.07
+"Pinole,California",10.78,4.06
+"Woodland,California",7.39,1.34
+"Pittsburg,California",26.94,4.42
+"Quincy,California",0.00,0.00
+"Point Arena,California",3.89,14.10
+"Shingle Springs,California",36.34,61.80
+"San Pedro,California",5.09,0.32
+"Portola,California",17.48,13.13
+"Potter Valley,California",0.00,0.00
+"Poway,California",,
+"Saratoga,California",14.85,6.10
+"Quartz Hill,California",0.00,0.00
+"Rolling Hills,California",24.88,28.18
+"Rancho Mirage,California",11.63,10.84
+"Red Bluff,California",,
+"Redondo Beach,California",27.45,3.60
+"Ukiah,California",2.65,0.66
+"Larkspur,California",69.12,23.64
+"Reedley,California",10.13,4.57
+"Lake Arrowhead,California",0.00,0.00
+"Rio Vista,California",,
+"West Sacramento,California",13.18,5.18
+"Yuba City,California",12.05,2.31
+"Riverbank,California",6.08,1.66
+"Jurupa Valley,California",6.47,2.21
+"Riverdale,California",0.00,0.00
+"Oro Grande,California",0.00,0.00
+"Rocklin,California",150.99,58.41
+"Rosamond,California",,
+"Rosemead,California",3.30,0.41
+"Covelo,California",0.00,0.00
+"Saint Helena,California",9.61,3.61
+"San Clemente,California",4.95,0.73
+"Encinitas,California",35.87,11.92
+"San Dimas,California",,
+"San Leandro,California",6.47,0.73
+"Felton,California",59.36,47.76
+"San Luis Obispo,California",,
+"San Marino,California",41.98,11.76
+"Winterhaven,California",0.00,0.00
+"San Rafael,California",70.02,15.45
+"Castaic,California",0.00,0.00
+"Santa Fe Springs,California",14.77,2.83
+"Santa Monica,California",,
+"Santa Paula,California",8.64,1.36
+"Solvang,California",,
+"Santee,California",8.57,2.04
+"Saugus,California",1.92,0.41
+"Scotts Valley,California",37.44,25.02
+"Seaside,California",80.09,16.49
+"Selma,California",14.64,3.48
+"Phelan,California",1.97,4.06
+"Shafter,California",,
+"Tollhouse,California",0.00,0.00
+"Yermo,California",,
+"Soledad,California",11.69,2.65
+"Sonoma,California",90.11,33.31
+"Sonora,California",3.61,1.69
+"Soquel,California",54.39,19.48
+"South El Monte,California",30.70,6.62
+"Miranda,California",166.52,601.15
+"South Pasadena,California",11.74,1.75
+"Nicolaus,California",53.44,1619.45
+"South Lake Tahoe,California",21.77,12.11
+"Olympic Valley,California",22.97,132.79
+"Tuolumne,California",3.61,1.69
+"Cedarville,California",4.12,11.64
+"Sutter,California",0.00,0.00
+"National City,California",27.59,4.05
+"Taft,California",143.19,44.28
+"Truckee,California",,
+"Mill Valley,California",18.68,4.55
+"Tehachapi,California",15.53,8.28
+"Winchester,California",15.85,11.52
+"Temple City,California",3.00,0.41
+"Templeton,California",5.19,2.10
+"Rancho San Margarit,California",8.15,1.21
+"Tomales,California",,
+"Tranquillity,California",0.00,0.00
+"Weaverville,California",33.51,32.22
+"Tulelake,California",5.18,6.64
+"Twentynine Palms,California",0.00,0.00
+"Upland,California",0.00,0.00
+"Upper Lake,California",8.59,9.58
+"Valley Center,California",20.76,80.76
+"Tujunga,California",1.14,0.10
+"Villa Park,California",0.00,0.00
+"Walnut,California",14.42,5.90
+"Warner Springs,California",0.00,0.00
+"Wasco,California",7.25,1.46
+"Weed,California",65.90,0.00
+"Cottonwood,California",0.00,0.00
+"Wheatland,California",4.50,2.54
+"Newhall,California",47.09,9.63
+"Williams,California",,
+"Willits,California",18.78,7.38
+"Willows,California",11.98,4.33
+"Windsor,California",,
+"Winters,California",,
+"Woodlake,California",13.89,2.91
+"Woodside,California",0.00,0.00
+"City Of Industry,California",0.46,0.21
+"Yreka,California",13.97,8.34
+"Yucaipa,California",0.96,0.20
+"Yucca Valley,California",0.39,0.19
